@@ -17,7 +17,7 @@
 	ms.date="03/25/2016"
 	ms.author="carlrab"/>
 
-# Choose a cloud SQL Server option: Azure SQL (PaaS) Database  or SQL Server on Azure VMs (IaaS)
+# Choose a cloud SQL Server option: Azure SQL (PaaS) database  or SQL Server on Azure VMs (IaaS)
 
 Azure has two options for hosting SQL Server workloads in the cloud:
 
